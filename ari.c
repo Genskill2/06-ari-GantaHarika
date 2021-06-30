@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <cs50.h>
+#include<ctype.h>
+string ari(string);
+
 string ari(string s) {
 int score,chr=0,word=0,sent=0,i=0;
 float Score,Chr,Word,Sent;
