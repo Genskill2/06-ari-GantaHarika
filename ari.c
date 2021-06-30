@@ -32,7 +32,7 @@ else if(score==5)
 return "Fifth Grade";
 else if(score==6)
 return "Sixth Grade";
-else if(score=7)
+else if(score==7)
 return "Seventh Grade";
 else if(score==8)
 return "Eighth Grade";
